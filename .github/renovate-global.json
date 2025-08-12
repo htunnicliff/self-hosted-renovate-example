@@ -3,7 +3,9 @@
   "branchPrefix": "github-renovate/",
   "dependencyDashboardTitle": "Dependency Dashboard",
   "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
-  "onboarding": false,
+  "onboarding": true,
+  "onboardingBranch": "github-renovate/onboarding",
+  "onboardingRebaseCheckbox": true,
   "platform": "github",
-  "autodiscover": true
+  "repositories": ["htunnicliff/self-hosted-renovate-example"]
 }
